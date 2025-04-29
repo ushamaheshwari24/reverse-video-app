@@ -33,13 +33,6 @@ The **Reverse Video App** allows users to upload a video, which is then processe
 - Required Python packages (listed in `requirements.txt`).
 - Ensure you have the necessary libraries for video processing.
 
-### Clone the Repository
-
-
-git clone https://github.com/Sathwik9418/reverse-video-app.git
-cd reverse-video-app
-
-
 ### Set Up the Backend
 
 1. Create a virtual environment (optional but recommended):
